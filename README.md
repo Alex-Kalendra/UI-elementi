@@ -1,6 +1,7 @@
 # UI-elementi
 Unity projekts kas demonstrē UI elementu lietojumu, par tēmu: Mr.Bean
-![MR. Bean attēls](https://www.goodcatchgames.com/wp-content/uploads/2017/02/Stickers-MrBean.png)
+![MR. Bean attēls]
+(https://www.goodcatchgames.com/wp-content/uploads/2017/02/Stickers-MrBean.png)
 
 ## Darāmo darbu saraksts
 - [ ] Input field objekta lietojums projektā
